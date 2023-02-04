@@ -3,14 +3,6 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
+## Cambios nuevos
 
-
-# Prueba desde GitHup
-
-ojala no falle mas 
-
-## Prueba2
-
-No falles pinche mamon
+no mames cabron 
